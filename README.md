@@ -1,6 +1,6 @@
 ### Hi, I'm Saurabh 👋
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=launchpad5682)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=launchpad5682&show_icons=true&theme=tokyonight)
 
 - 🔭 I’m currently working on Devops technologies like Ansible, Docker, and Kubernetes etc.
 - 🌱 I’m currently learning Python, Machine Learning, Deep Learning, AWS, Azure and Openshift.
